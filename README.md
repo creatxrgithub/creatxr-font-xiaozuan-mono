@@ -25,3 +25,7 @@
 吾欲從字形﹐尢要以字義爲引予漢字以分類﹐希能尋一善法以傳承我華夏文明。吾欲原先人識物之途﹐而得字之所以若斯。吾亦欲解漢字之所以成形﹐並賦以傳統注音。
 
 願皇天后土祐之得以早成其功。
+
+# 漢字形義正則法
+
+https://github.com/creatxrgithub/chinese_construct_expression
